@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "AsF262Ty9wAnH+cnLzia4g7yxGjQbJcTUpvxlEost+0=",
+  "Source": "IActionResultExample",
+  "BasePath": "_content/IActionResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResultExample\\wwwroot",
+      "Source": "IActionResultExample",
+      "ContentRoot": "C:\\aspnetcore\\IActionResultExample\\IActionResultExample\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcore\\IActionResultExample\\IActionResultExample\\wwwroot\\docs.pdf",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcore\\IActionResultExample\\IActionResultExample\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "docs.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\docs.pdf"
+    }
+  ]
+}

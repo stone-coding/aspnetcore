@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "aNmuTF2Lwok05Z2wBqWpgDFpWJaZQoAnn1i7QFVo1OQ=",
+  "Source": "ViewExmple",
+  "BasePath": "_content/ViewExmple",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewExmple\\wwwroot",
+      "Source": "ViewExmple",
+      "ContentRoot": "C:\\aspnetcore\\ViewExmple\\ViewExmple\\wwwroot\\",
+      "BasePath": "_content/ViewExmple",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

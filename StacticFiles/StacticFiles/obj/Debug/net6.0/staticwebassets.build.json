@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "N4QwfBw4b6uwrj9avK3PBEndGvHZQk1StxmBvsI7oE0=",
+  "Source": "StacticFiles",
+  "BasePath": "_content/StacticFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StacticFiles\\wwwroot",
+      "Source": "StacticFiles",
+      "ContentRoot": "C:\\aspnetcore\\StacticFiles\\StacticFiles\\wwwroot\\",
+      "BasePath": "_content/StacticFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

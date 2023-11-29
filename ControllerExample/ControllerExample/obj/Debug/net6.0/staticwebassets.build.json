@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "OByr319b2XsdkGMkihy7bxc5J+s2F1YOeeM2CRibmeE=",
+  "Source": "ControllerExample",
+  "BasePath": "_content/ControllerExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerExample\\wwwroot",
+      "Source": "ControllerExample",
+      "ContentRoot": "C:\\aspnetcore\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcore\\ControllerExample\\ControllerExample\\wwwroot\\docs.pdf",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcore\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "docs.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\docs.pdf"
+    },
+    {
+      "Identity": "C:\\aspnetcore\\ControllerExample\\ControllerExample\\wwwroot\\img1.png",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcore\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "img1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img1.png"
+    },
+    {
+      "Identity": "C:\\aspnetcore\\ControllerExample\\ControllerExample\\wwwroot\\Sample.txt",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcore\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "Sample.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Sample.txt"
+    }
+  ]
+}
